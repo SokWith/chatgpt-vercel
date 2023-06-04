@@ -21,10 +21,10 @@ export const defaultEnv = {
   CLIENT_DEFAULT_MESSAGE: `Powered by OpenAI Vercel
 - 如果你高兴，可以 [适当打赏](https://i.postimg.cc/5y73h7Sd/weixinq.gif)，但不接受任何付费功能请求。
 - 本网站仅作为项目演示，不提供服务，请填入自己的 Key，长期使用请 [自行部署](https://github.com/ourongxing/chatgpt-vercel#%E9%83%A8%E7%BD%B2%E4%B8%80%E4%B8%AA%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84-chatgpt-%E7%BD%91%E7%AB%99%E5%85%8D%E8%B4%B9)，简单成本低。
--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
--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
--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
--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
+-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
+-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
+-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
+-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
 -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
 - 点击每条消息前的头像，可以锁定对话，作为角色设定。[查看更多使用技巧](https://github.com/ourongxing/chatgpt-vercel#使用技巧)。
 - 现在支持多个对话，打开对话设置，点击新建对话。在输入框里输入 [[/]][[/]] 或者 [[空格]][[空格]] 可以切换对话，搜索历史消息。
